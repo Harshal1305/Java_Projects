@@ -6,7 +6,7 @@ public class Function {
         //Printing sum by function
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
-        primeNumber(a);
+        //primeNumber(a);
         /* int b = sc.nextInt();
         int sum = add(a, b);
         System.out.println("Sum is: "+ sum); */
